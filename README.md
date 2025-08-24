@@ -7,7 +7,5 @@ Here are some samples.
 
 The labels are presented in Chinese.
 
-'dataset_loading.py' can be used to
-
 All the images are collected from the intenet. If there are copyright issues involved, please contact and I will remove this dataset.
 
